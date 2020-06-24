@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">  
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>DCCC</title>
+    <link rel="stylesheet" href="css/style.css">
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script>
         $(document).ready(function () {
             $(".hamburger").click(function () {
@@ -16,12 +15,8 @@
             });
         });
     </script>
-    <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
-
-
     <div class="wrapper collapsed">
 
         <div class="top_navbar">
@@ -32,7 +27,7 @@
             </div>
             <div class="top_menu">
                 <div class="logo">
-                    Covid19 WebApp
+                    Covid19
                 </div>
                 <ul>
                     <li><a href="#">
@@ -42,7 +37,7 @@
                             <i class="fas fa-bell"></i>
                         </a></li>
                     <li><a href="#">
-                            <i class="fas fa-user"></i>
+                            <i class="fas fa-sign-out-alt" id="logout"></i>
                         </a></li>
                 </ul>
             </div>
@@ -50,40 +45,28 @@
 
         <div class="sidebar">
             <ul>
-                <li><a href="index.html">
+                <li><a href="index.html" class=active>
                         <span class="icon"><i class="fas fa-tachometer-alt"></i></span>
                         <span class="title">Dashboard</span>
                     </a></li>
 
-                <li><a href="tweets.html" class=active>
+                <li><a href="tweets.html">
                         <span class="icon"><i class="fab fa-twitter"></i></span>
                         <span class="title">Tweets</span>
                     </a></li>
             </ul>
         </div>
 
-        <div class="main_container" style="">
-            <div class="row align-items-center" style="margin-top: 0px;">
-                <div class="col-lg-5 px-5 mx-auto" style="">
-                    <p class="display-4 font-weight-bold" style="color: black; margin-top: 0px;">Tweets</p>
-                    <img src="svg/tweet.svg" alt="" class="img-fluid mb-4 mb-lg-0">
-                </div>
-                <div class="col-lg-6">
-                    <div class="tweets mx-auto">
-                        <a class="twitter-timeline" href="https://twitter.com/BiharHealthDept?ref_src=twsrc%5Etfw"
-                            data-height=500px data-width="500px">Tweets
-                            by
-                            BiharHealthDept</a>
-                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-                    </div>
-                </div>
+        <div class="main_container">
+            <div class="list-group" id="lstgrp">
+                
             </div>
+
         </div>
-
     </div>
-
-
+    <script src="https://www.gstatic.com/firebasejs/7.14.6/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.6/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.6/firebase-database.js"></script>
+    <script src="js/dccc.js"></script>
 </body>
-
 </html>

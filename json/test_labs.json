@@ -1,64 +1,224 @@
 {
     "data": [
         {
-            "name": "Tomo Riba Institute of Health & Medical Sciences",
-            "address": "Naharlagun",
-            "phone_number": "0360 235 0331"
+            "name": "ICMR Rajendra Memorial Research Institute of Medical Sciences, Patna",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Royal Medical and Laboratory",
-            "address": "Model Village, Papum Pare, NH52A, Itanagar Road, Naharlagun, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "098626 70017"
+            "name": "Indira Gandhi Institute Medical Sciences, Patna",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "opp. BSNL Office, Bank Tiniali, Cona County, Itanagar, Arunachal Pradesh 791111",
-            "phone_number": "097749 50511"
+            "name": "Patna Medical College, Patna",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Itanagar Drugs and Diagnostic Centre",
-            "address": "Upper Chimi, G Sector, Papum Pare, NH52A, Itanagar Main Road, Itanagar, Itanagar, Arunachal Pradesh 791113",
-            "phone_number": "098391 52441"
+            "name": "Darbhanga Medical College, Darbhanga",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "S S Mission Road, East Siang, Pasighat, Arunachal Pradesh-791102, Pasighat, Arunachal Pradesh 791102",
-            "phone_number": "096120 01015"
+            "name": "SKMCH, Muzaffarpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "Mayu-1, Roing, Arunachal Pradesh 792110, Roing, Arunachal Pradesh 792110",
-            "phone_number": "094360 48355"
+            "name": "All India Institute of Medical Sciences, Patna ",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "Near State General Hospital,Naharlagun:791110, Near State General Hospital, Arunachal Pradesh 791110",
-            "phone_number": "094362 29900"
+            "name": "Anugrah Narayan Magadh Medical College ANMMC , Gaya",
+            "type": "Government",
+            "test_type": "TrueNAT"
         },
         {
-            "name": "Brothers Medicos & Diagnostics",
-            "address": "Lumer Dai Road,Near Tomoriba State Hospital, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "0360 235 1750"
+            "name": "Vardhman Institute of Medical Sciences, Pawapuri, Nalanda",
+            "type": "Government",
+            "test_type": "TrueNAT"
         },
         {
-            "name": "Doctors Diagnostics Centre",
-            "address": "S. S. Mission Road (Jerang Pharmacy, Jarkong, Leprosy colony, road, Pasighat, Arunachal Pradesh 791102",
-            "phone_number": "-"
+            "name": "District Hospital, Siwan",
+            "type": "Government",
+            "test_type": "TrueNAT"
         },
         {
-            "name": "Intermediate Reference Laboratory Directorate of Health Sciences",
-            "address": "National Highway 52A, Old Assembly Complex, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "-"
+            "name": " District Hospital, Rohtas ",
+            "type": "Government",
+            "test_type": "TrueNAT"
         },
         {
-            "name": "Apollo Diagnostics",
-            "address": "D.C Bungalow Road, Girls High School Chariali, Ward No.6, North Lakhimpur, Assam 787001",
-            "phone_number": "069013 89266"
+            "name": " JanNayak Karpoori Thakur Medical College and Hospital, Madhepura",
+            "type": "Government",
+            "test_type": "TrueNAT"
         },
         {
-            "name": "Apollo Diagnostics",
-            "address": "South Amolapatty,A T Road,, Opposite Govt Girls Higher Secondary School, Dibrugarh, Assam 786001",
-            "phone_number": "088204 44418"
+            "name": " Govt Medical College, Bettiah",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Purnia",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Katihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, East Champaran",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Madhubani",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Buxar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Khagaria",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Begusarai",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Banka, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Gopalganj, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Aurangabad, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Jehanabad, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Nawada, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Arwal",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Saharsa, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Supaul, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Kaimur, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Saran, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Bhojpur, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Kishanganj, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Jamui, Bihar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Lakhisarai, Bihar ",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Munger",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Sheikhpura",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Vaishali",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Araria",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Samastipur",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Sheohar",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " District Hospital, Sitamarhi ",
+            "type": "Government",
+            "test_type": "TrueNAT"
+        },
+        {
+            "name": " Jawaharlal Nehru Medical College, Bhagalpur",
+            "type": "Government",
+            "test_type": "CB-NAAT"
+        },
+        {
+            "name": "Narayan Medical College, Sasaram",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "name": "#Saral    Pathlab    Pvt.    Ltd, 55B,    Sector    O, Sachiwalaya Colony, Kankarbagh, Patna",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "name": "$  Sen  Diagnostics  Pvt.  Ltd.,  Budh  Marg, Patna",
+            "type": "Private",
+            "test_type": "CB-NAAT"
         }
     ]
 }

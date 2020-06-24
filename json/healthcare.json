@@ -1,129 +1,721 @@
 {
-    "data": [
+    "ccc": [
         {
-            "name": "Ramakrishna Mission Hospital",
-            "address": "P.O. R.K. Mission, Itanagar, Arunachal Pradesh 791113",
-            "phone_number": "0360 221 2263"
+            "sno": "1",
+            "district": "Arwal",
+            "name": "Aroma Building, Arwal",
+            "type": "CCC"
         },
         {
-            "name": "Niba Hospital",
-            "address": "Niba hospital, Naharlagun Pappunalla, Itanagar, Arunachal Pradesh 791110",
-            "phone_number": "0360 224 4574"
+            "sno": "2",
+            "district": "Aurangabad",
+            "name": "US Residency Hotel",
+            "type": "CCC"
         },
         {
-            "name": "Heema Hospital",
-            "address": "NH415, Cona County, Itanagar, Arunachal Pradesh 791111",
-            "phone_number": "087942 36321"
+            "sno": "3",
+            "district": "Aurangabad",
+            "name": "Ram Lakan Singh Yadav College Hostel",
+            "type": "CCC"
         },
         {
-            "name": "District Hospital, Bomdila",
-            "address": "Cona, Bomdila, Arunachal Pradesh 790001",
-            "phone_number": "03782 222 005"
+            "sno": "4",
+            "district": "Begusarai",
+            "name": "Hotel Devi Darbar, Zero Mile",
+            "type": "CCC"
         },
         {
-            "name": "Tomo Riba Institute Of Health And Medical Sciences",
-            "address": "National Highway 52A, Old Assembly Complex, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "0360 235 0331"
+            "sno": "5",
+            "district": "Begusarai",
+            "name": "Vishnu Hotel",
+            "type": "CCC"
         },
         {
-            "name": "Samaritan Hormin Hospital",
-            "address": "A Sector, Papum Pare, NH-52A, Itanagar Rd, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "097065 03471"
+            "sno": "6",
+            "district": "Bhagalpur",
+            "name": "Hotel Rajhans",
+            "type": "CCC"
         },
         {
-            "name": "Heema Hospital",
-            "address": "Cona County, Itanagar, Arunachal Pradesh 791113",
-            "phone_number": "-"
+            "sno": "7",
+            "district": "Bhagalpur",
+            "name": "Hotel Chinmoy",
+            "type": "CCC"
         },
         {
-            "name": "Hospital {SWASTI}, Ramakrishna Mission, Narottam Nagar",
-            "address": "Arunachal Pradesh 792129",
-            "phone_number": "03786 255 237"
+            "sno": "8",
+            "district": "Bhojpur",
+            "name": "Blue Heaven Resort, Dhanpura,\r\nAra",
+            "type": "CCC"
         },
         {
-            "name": "District Hospital",
-            "address": "Cona, Daporijo, Arunachal Pradesh 791122",
-            "phone_number": "-"
+            "sno": "9",
+            "district": "Buxar",
+            "name": "Hotel Royal",
+            "type": "CCC"
         },
         {
-            "name": "General Hospital Tezu",
-            "address": "Tezu, Arunachal Pradesh 792001",
-            "phone_number": "-"
+            "sno": "10",
+            "district": "Darbhanga",
+            "name": "Ganga Residency, Rambagh Kila",
+            "type": "CCC"
         },
         {
-            "name": "Emmanuel BTM Hospital",
-            "address": "National Highway 52A, Cona County, Papu Nalah, Arunachal Pradesh 791110",
-            "phone_number": "094360 41756"
+            "sno": "11",
+            "district": "Darbhanga",
+            "name": "Hotel Holiday Inn, Laheriasarai",
+            "type": "CCC"
         },
         {
-            "name": "General Hospital, Aalo",
-            "address": "District, Mêdog County, Aalo, Arunachal Pradesh 791001",
-            "phone_number": "-"
+            "sno": "12",
+            "district": "Darbhanga",
+            "name": "Hotel Prince, VIP Main Road,\r\nLaheraisarai",
+            "type": "CCC"
         },
         {
-            "name": "New Daring",
-            "address": "Medog, Nyingchi, Arunachal Pradesh 791101",
-            "phone_number": "-"
+            "sno": "13",
+            "district": "Darbhanga",
+            "name": "Hotel GovindA Palace, Delhi More",
+            "type": "CCC"
         },
         {
-            "name": "NERIST Health Unit",
-            "address": "Doimukh Road, Cona County, Nirjuli, Arunachal Pradesh 791109",
-            "phone_number": "-"
+            "sno": "14",
+            "district": "Darbhanga",
+            "name": "Hotel Rambha Grand, Donar Road",
+            "type": "CCC"
         },
         {
-            "name": "NHPC SLP Project Hospital Kolaptukar",
-            "address": "Arunachal Pradesh 791120",
-            "phone_number": "-"
+            "sno": "15",
+            "district": "Darbhanga",
+            "name": "Shyama Residency",
+            "type": "CCC"
         },
         {
-            "name": "District Hospital Tawang",
-            "address": "Cona, Tawang, Arunachal Pradesh 790104",
-            "phone_number": "-"
+            "sno": "16",
+            "district": "East Champaran",
+            "name": "DIET",
+            "type": "CCC"
         },
         {
-            "name": "District Hospital Seppa",
-            "address": "Cona, Shannan, Arunachal Pradesh 790102",
-            "phone_number": "-"
+            "sno": "17",
+            "district": "Gaya",
+            "name": "Hotel Imperial, Bodh Gaya",
+            "type": "CCC"
         },
         {
-            "name": "Bakin Pertin General Hospital",
-            "address": "Mêdog County, Pasighat, Arunachal Pradesh 791102",
-            "phone_number": "-"
+            "sno": "18",
+            "district": "Gopalganj",
+            "name": "Hotel Shabnam",
+            "type": "CCC"
         },
         {
-            "name": "Gyati Takka General Hospital, Ziro",
-            "address": "Hospital Road, Cona County, Ziro, Arunachal Pradesh 791120",
-            "phone_number": "094362 20143"
+            "sno": "19",
+            "district": "Kaimur",
+            "name": "Jagjivan Ram Bhupesh nath\r\nMahavidyalaya, Kaimur",
+            "type": "CCC"
         },
         {
-            "name": "Government Hospital Roing",
-            "address": "Roing, Arunachal Pradesh 792110",
-            "phone_number": "-"
+            "sno": "20",
+            "district": "Katihar",
+            "name": "Govt RaenBasera",
+            "type": "CCC"
         },
         {
-            "name": "Military Hospital",
-            "address": "Cona, Shannan, Arunachal Pradesh 790116",
-            "phone_number": "-"
+            "sno": "21",
+            "district": "Kishanganj",
+            "name": "Dr Kalam Agriculture College (Horticulture), Arrabari, Chhatargachh, Pothiya",
+            "type": "CCC"
         },
         {
-            "name": "Ramakrishna Mission Hospital, Itanagar",
-            "address": "Cona County, Shannan, 791113",
-            "phone_number": "0360 221 2263"
+            "sno": "22",
+            "district": "Munger",
+            "name": "White House Hotel Jubli Jamalpur",
+            "type": "CCC"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "Near State General Hospital,Naharlagun:791110, Near State General Hospital, Arunachal Pradesh 791110",
-            "phone_number": "-"
+            "sno": "23",
+            "name": "Hotel Atithi",
+            "type": "CCC"
         },
         {
-            "name": "Abees Clinic",
-            "address": "Mithun Gate, B Sector, Papum Pare, NH-52A, Itanagar Main Road, Itanagar, Itanagar, Arunachal Pradesh 791111",
-            "phone_number": "-"
+            "sno": "24",
+            "district": "Madhepura",
+            "name": "Vivah Bhavan, Zila Parishad",
+            "type": "CCC"
         },
         {
-            "name": "Men-Tsee-Khang (Tibetan Medical & Astro. Institute)",
-            "address": "Garage Rd, Lama Camp, Tindolong, Arunachal Pradesh 792001",
-            "phone_number": "-"
+            "sno": "25",
+            "district": "Nalanda",
+            "name": "Hotel Ajanta",
+            "type": "CCC"
+        },
+        {
+            "sno": "26",
+            "district": "Patna",
+            "name": "Patliputra Sports Complex",
+            "type": "CCC"
+        },
+        {
+            "sno": "27",
+            "district": "Patna",
+            "name": "Bamiti Compus",
+            "type": "CCC"
+        },
+        {
+            "sno": "28",
+            "district": "Patna",
+            "name": "BIPARD Hostel, Walmi",
+            "type": "CCC"
+        },
+        {
+            "sno": "29",
+            "district": "Patna",
+            "name": "Walmi Hostel, Walmi",
+            "type": "CCC"
+        },
+        {
+            "sno": "30",
+            "district": "Purnea",
+            "name": "Hotel Jyoti Sanjay",
+            "type": "CCC"
+        },
+        {
+            "sno": "31",
+            "district": "Rohtas",
+            "name": "Shershah Hotel, Sasaram",
+            "type": "CCC"
+        },
+        {
+            "sno": "32",
+            "district": "Saharsa",
+            "name": "Kshetriya Pariksha Kendra",
+            "type": "CCC"
+        },
+        {
+            "sno": "33",
+            "district": "Samastipur",
+            "name": "Hotel Swarg Exotica",
+            "type": "CCC"
+        },
+        {
+            "sno": "34",
+            "district": "Sheikhpura",
+            "name": "Ashoka Hotel, above Hero Honda Showroom, Tin Muhani",
+            "type": "CCC"
+        },
+        {
+            "sno": "35",
+            "district": "Sheohar",
+            "name": "ANM Trg School Hostel Sheohar",
+            "type": "CCC"
+        },
+        {
+            "sno": "36",
+            "district": "Sitamarhi",
+            "name": "Hotel CTR, Dumra Chowk\r\nMob-8002893950",
+            "type": "CCC"
+        },
+        {
+            "sno": "37",
+            "district": "Sitamarhi",
+            "name": "Hotel Ram Janki, near IB\r\nMob-8804500125",
+            "type": "CCC"
+        },
+        {
+            "sno": "38",
+            "district": "Sitamarhi",
+            "name": "Hotel Sai, Sitamarhi, near V2 mall\r\nMob-7016686156",
+            "type": "CCC"
+        },
+        {
+            "sno": "39",
+            "district": "Sitamarhi",
+            "name": "Hotel Shree, Dumra Road\r\nMob-8084921921",
+            "type": "CCC"
+        },
+        {
+            "sno": "40",
+            "district": "Sitamarhi",
+            "name": "Hotel Sitayan, Sursand Road,\r\nWard 28, Mob-8084454269",
+            "type": "CCC"
+        },
+        {
+            "sno": "41",
+            "district": "Sitamarhi",
+            "name": "Hotel Ashirwad, Near Ganesh Cinema Paswan Chowk,\r\nMob-9931404349",
+            "type": "CCC"
+        },
+        {
+            "sno": "42",
+            "district": "Sitamarhi",
+            "name": "Everest Hotal, Near Ganesh\r\nCinema Paswan Chowk Mob-9931870416",
+            "type": "CCC"
+        },
+        {
+            "sno": "43",
+            "district": "Sitamarhi",
+            "name": "Hotel, Umang, Kiran Chowk,\r\nWard 17, Mob-9470241371",
+            "type": "CCC"
+        },
+        {
+            "sno": "44",
+            "district": "Sitamarhi",
+            "name": "India Guest House, in front of RB,\r\nDumra Road 94300123436",
+            "type": "CCC"
+        },
+        {
+            "sno": "45",
+            "district": "Sitamarhi",
+            "name": "Aman Vihar Hotel, Sursand Road, Ward 27 Mob 7764857577",
+            "type": "CCC"
+        },
+        {
+            "sno": "46",
+            "district": "Sitamarhi",
+            "name": "tation Road, Ward 24\r\n8084429569",
+            "type": "CCC"
+        },
+        {
+            "sno": "47",
+            "district": "Sitamarhi",
+            "name": "Hotel Park, Behind National Market Ring Bandh, Ward 17\r\nMob-9504064579",
+            "type": "CCC"
+        },
+        {
+            "sno": "48",
+            "district": "Sitamarhi",
+            "name": "Hotel Rajpati, Gandhi Chowk Ward 18\r\nMob 8987382333",
+            "type": "CCC"
+        },
+        {
+            "sno": "49",
+            "district": "Sitamarhi",
+            "name": "Hotel Siddhi Vinayak, Riga Road, Janki Asthan, Ward 1\r\nMob 9431403618",
+            "type": "CCC"
+        },
+        {
+            "sno": "50",
+            "district": "Sitamarhi",
+            "name": "Hotel Shiv Surya, RD Palace Road, Ward 18\r\nMob-9470821500",
+            "type": "CCC"
+        },
+        {
+            "sno": "51",
+            "district": "Siwan",
+            "name": "Dayanand Ayurvedic Hospital",
+            "type": "CCC"
+        },
+        {
+            "sno": "52",
+            "district": "Supaul",
+            "name": "R K Palace",
+            "type": "CCC"
+        },
+        {
+            "sno": "53",
+            "district": "Vaishali",
+            "name": "Sri Hospital, Hajipur",
+            "type": "CCC"
+        },
+        {
+            "sno": "54",
+            "district": "West Champaran",
+            "name": "ANM Training School,\r\nNarkatiyaganj",
+            "type": "CCC"
+        }
+    ],
+    "dch": [
+        {
+            "sno": "1",
+            "district": "Patna",
+            "name": "NMCH",
+            "type": "DCH"
+        },
+        {
+            "sno": "2",
+            "district": "Gaya District",
+            "name": "ANMCH, Gaya",
+            "type": "DCH"
+        },
+        {
+            "sno": "3",
+            "district": "Bhagalpur\r\nDistrict",
+            "name": "JLNMCH",
+            "type": "DCH"
+        }
+    ],
+    "dchc": [
+        {
+            "sno": "1",
+            "district": "Araria",
+            "name": "ANM School, Forbesganj",
+            "type": "DCHC"
+        },
+        {
+            "sno": "2",
+            "district": "Arwal",
+            "name": "ANM/ GNM Training School\r\nSadar Hospital Campus",
+            "type": "DCHC"
+        },
+        {
+            "sno": "3",
+            "district": "Aurangabad",
+            "name": "SDH Daudnagar",
+            "type": "DCHC"
+        },
+        {
+            "sno": "4",
+            "district": "Banka",
+            "name": "GNM School, Banka",
+            "type": "DCHC"
+        },
+        {
+            "sno": "5",
+            "district": "Begusarai",
+            "name": "Agrasen Matri Seva Sadan",
+            "type": "DCHC"
+        },
+        {
+            "sno": "6",
+            "district": "Bhagalpur",
+            "name": "SDH Kahalgaon, SDH Naugachiya",
+            "type": "DCHC"
+        },
+        {
+            "sno": "7",
+            "district": "Bhojpur",
+            "name": "ANM Training School, Jagdishpur",
+            "type": "DCHC"
+        },
+        {
+            "sno": "8",
+            "district": "Buxar",
+            "name": "SDH Dumraon",
+            "type": "DCHC"
+        },
+        {
+            "sno": "9",
+            "district": "East Champaran",
+            "name": "SDH Pakaridayal",
+            "type": "DCHC"
+        },
+        {
+            "sno": "10",
+            "district": "East Champaran",
+            "name": "ANM School, Dhaka (RH Dhaka Campus)",
+            "type": "DCHC"
+        },
+        {
+            "sno": "11",
+            "district": "East Champaran",
+            "name": "ANM School, SDH Areraj",
+            "type": "DCHC"
+        },
+        {
+            "sno": "12",
+            "district": "East Champaran",
+            "name": "ANM School, SDH Chakiya",
+            "type": "DCHC"
+        },
+        {
+            "sno": "13",
+            "district": "Gaya",
+            "name": "SDH Sherghati",
+            "type": "DCHC"
+        },
+        {
+            "sno": "14",
+            "district": "Gaya",
+            "name": "SDK Tekari",
+            "type": "DCHC"
+        },
+        {
+            "sno": "15",
+            "district": "Gaya",
+            "name": "CHC Mahkar",
+            "type": "DCHC"
+        },
+        {
+            "sno": "16",
+            "district": "Gopalganj",
+            "name": "SDH Hathua",
+            "type": "DCHC"
+        },
+        {
+            "sno": "17",
+            "district": "Gopalganj",
+            "name": "CHC Thawe",
+            "type": "DCHC"
+        },
+        {
+            "sno": "18",
+            "district": "Jamui",
+            "name": "GNM & Paramedical School,\r\nMohuligarh, Giddhaur",
+            "type": "DCHC"
+        },
+        {
+            "sno": "19",
+            "district": "Jamui",
+            "name": "ANM School, Laxmipur",
+            "type": "DCHC"
+        },
+        {
+            "sno": "20",
+            "district": "Jehanabad",
+            "name": "GNM School, Near Sadar Hospital, Jehanabad",
+            "type": "DCHC"
+        },
+        {
+            "sno": "21",
+            "district": "Kaimur",
+            "name": "SDH, Mohaniya",
+            "type": "DCHC"
+        },
+        {
+            "sno": "22",
+            "district": "Katihar",
+            "name": "SDH Barsoi",
+            "type": "DCHC"
+        },
+        {
+            "sno": "23",
+            "district": "Katihar",
+            "name": "ANM School Katihar",
+            "type": "DCHC"
+        },
+        {
+            "sno": "24",
+            "district": "Khagaria",
+            "name": "GNM School, Khagaria",
+            "type": "DCHC"
+        },
+        {
+            "sno": "25",
+            "district": "Lakhisarai",
+            "name": "Para Medical Institute",
+            "type": "DCHC"
+        },
+        {
+            "sno": "26",
+            "district": "Madhubani",
+            "name": "ANM Training School,\r\nJhanjharpur",
+            "type": "DCHC"
+        },
+        {
+            "sno": "27",
+            "district": "Munger",
+            "name": "GNM School, Haji Subhan, Purab\r\nSarai, Munger",
+            "type": "DCHC"
+        },
+        {
+            "sno": "28",
+            "district": "Munger",
+            "name": "Railwary Hospital Jamalpur",
+            "type": "DCHC"
+        },
+        {
+            "sno": "29",
+            "district": "Munger",
+            "name": "ANM Training School, Tarapur",
+            "type": "DCHC"
+        },
+        {
+            "sno": "30",
+            "district": "Muzaffarpur",
+            "name": "MCH Building, Sadar Hospital\r\ncampus",
+            "type": "DCHC"
+        },
+        {
+            "sno": "31",
+            "district": "Nalanda",
+            "name": "SDH Hilsa",
+            "type": "DCHC"
+        },
+        {
+            "sno": "32",
+            "district": "Nawada",
+            "name": "RaenBasera, Sadar Hospital\r\nCampus",
+            "type": "DCHC"
+        },
+        {
+            "sno": "33",
+            "district": "Nawada",
+            "name": "SDH Rajauli",
+            "type": "DCHC"
+        },
+        {
+            "sno": "34",
+            "district": "Purnea",
+            "name": "SDH Dhamdaha.",
+            "type": "DCHC"
+        },
+        {
+            "sno": "35",
+            "district": "Purnea",
+            "name": "SDH Banmankhi.",
+            "type": "DCHC"
+        },
+        {
+            "sno": "36",
+            "district": "Rohtas",
+            "name": "SDH Bikramganj",
+            "type": "DCHC"
+        },
+        {
+            "sno": "37",
+            "district": "Rohtas",
+            "name": "SDH Dehri",
+            "type": "DCHC"
+        },
+        {
+            "sno": "38",
+            "district": "Samastipur",
+            "name": "ANM Training School, Rosera",
+            "type": "DCHC"
+        },
+        {
+            "sno": "39",
+            "district": "Samastipur",
+            "name": "SDH Dalsinghsarai",
+            "type": "DCHC"
+        },
+        {
+            "sno": "40",
+            "district": "Saran",
+            "name": "GNM School Hostel Chhapra",
+            "type": "DCHC"
+        },
+        {
+            "sno": "41",
+            "district": "Sheikhpura",
+            "name": "RH Barbigha",
+            "type": "DCHC"
+        },
+        {
+            "sno": "42",
+            "district": "Sheohar",
+            "name": "Saroja Sitaram Hospital",
+            "type": "DCHC"
+        },
+        {
+            "sno": "43",
+            "district": "Sitamarhi",
+            "name": "SDH, Belsund",
+            "type": "DCHC"
+        },
+        {
+            "sno": "44",
+            "district": "Siwan",
+            "name": "SDH Maharganj",
+            "type": "DCHC"
+        },
+        {
+            "sno": "45",
+            "district": "Siwan",
+            "name": "ANM School, RH Mairwa",
+            "type": "DCHC"
+        },
+        {
+            "sno": "46",
+            "district": "Supaul",
+            "name": "SDH Birpur",
+            "type": "DCHC"
+        },
+        {
+            "sno": "47",
+            "district": "Supaul",
+            "name": "SDH Triveniganj",
+            "type": "DCHC"
+        },
+        {
+            "sno": "48",
+            "district": "Vaishali",
+            "name": "SDH Mahua-Vaishali",
+            "type": "DCHC"
+        },
+        {
+            "sno": "49",
+            "district": "West Champaran",
+            "name": "ANM Training School, Bagaha",
+            "type": "DCHC"
+        },
+        {
+            "sno": "50",
+            "district": "West Champaran",
+            "name": "Govt. Medical College, Bettiah",
+            "type": "DCHC"
+        },
+        {
+            "sno": "51",
+            "district": "Patna",
+            "name": "PMCH",
+            "type": "DCHC"
+        },
+        {
+            "sno": "52",
+            "district": "Patna",
+            "name": "AIIMS",
+            "type": "DCHC"
+        },
+        {
+            "sno": "53",
+            "district": "Patna",
+            "name": "IGIMS",
+            "type": "DCHC"
+        },
+        {
+            "sno": "54",
+            "district": "Muzaffarpur",
+            "name": "SKMCH",
+            "type": "DCHC"
+        },
+        {
+            "sno": "55",
+            "district": "Madhepura",
+            "name": "Govt. Medical College Madhepura",
+            "type": "DCHC"
+        },
+        {
+            "sno": "56",
+            "district": "Kishanganj",
+            "name": "MGM Medical College & Hospital, Kishanganj",
+            "type": "DCHC"
+        },
+        {
+            "sno": "57",
+            "district": "Nalanda",
+            "name": "VIIMS, Pawapuri Nalanda",
+            "type": "DCHC"
+        },
+        {
+            "sno": "58",
+            "district": "Katihar",
+            "name": "Katihar Medical College",
+            "type": "DCHC"
+        },
+        {
+            "sno": "59",
+            "district": "Darbhanga",
+            "name": "Nursing Hostel, DMCH",
+            "type": "DCHC"
+        },
+        {
+            "sno": "60",
+            "district": "Rohtas",
+            "name": "Narayan Medical College & Hospital, Jamuhar",
+            "type": "DCHC"
+        },
+        {
+            "sno": "61",
+            "district": "Saharsa",
+            "name": "Lord Buddha Koshi Medical\r\nCollege, Saharsa",
+            "type": "DCHC"
+        },
+        {
+            "sno": "62",
+            "district": "Madhubani",
+            "name": "Madhubani Medical College",
+            "type": "DCHC"
         }
     ]
 }
